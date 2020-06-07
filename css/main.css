@@ -508,7 +508,7 @@ progress::-moz-progress-bar,progress::-webkit-progress-bar {
 }
 
 .author_date {
-    padding: 0 30px;
+    padding: 0 30px 30px;
 }
 
 .author_news {
